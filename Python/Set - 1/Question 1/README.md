@@ -13,7 +13,7 @@
   Print the maximum number of boxes that fulfill the conditions.
   
 # Constraints :
-  1 <= N <= 100
+  1 <= N <= 100 <br>
   0 <= t_i, c_i <= 100
 
 # Time Limit :
