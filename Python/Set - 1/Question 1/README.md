@@ -21,14 +21,14 @@
 
 # Example :
 
-  **Input :**
-  4
-  1 2
-  2 4
-  5 6
-  6 10
+  **Input :** <br>
+  4 <br>
+  1 2 <br>
+  2 4 <br>
+  5 6 <br>
+  6 10 <br>
 
-  **Output :**
+  **Output :** <br>
   2
 
 # Sample test case explanation :
