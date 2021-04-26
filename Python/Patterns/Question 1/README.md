@@ -3,14 +3,16 @@ V-SHAPE:
 Input:<br>
 3<br>
 Output:
-<pem>
-1 3 <br>
- 2<br>
-</pem>
+<pre>
+1 3
+ 2
+</pre>
 
 Input:<br>
-5<br>
+5
 Output:<br>
-1   5 <br>
- 2 4 <br>
+<pre>
+1   5
+ 2 4
   3
+</pre>
