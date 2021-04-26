@@ -2,9 +2,11 @@ V-SHAPE:
 
 Input:<br>
 3<br>
-Output:<br>
+Output:
+<pem>
 1 3 <br>
  2<br>
+</pem>
 
 Input:<br>
 5<br>
