@@ -19,3 +19,6 @@
  2 4
   3
 </pre>
+
+# Solution (Executable) :
+  For solution - [Click Here](https://onecompiler.com/python/3wvq88khy)
