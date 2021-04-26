@@ -14,5 +14,12 @@
   1 <= n <= 1000 <br>
   1.01 <= weight <= 3.0
 
+# Sample Input :
+  6
+  1.01 1.99 2.5 1.5 1.01 0.6
+
+# Sample Output :
+  4
+  
 # Solution (Executable) :
   For solution - [Click Here](https://onecompiler.com/python/3wvq32kec)
