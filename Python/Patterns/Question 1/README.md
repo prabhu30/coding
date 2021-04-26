@@ -1,4 +1,4 @@
-# V-SHAPE :
+# V-SHAPE
 
 # Input :
 3
