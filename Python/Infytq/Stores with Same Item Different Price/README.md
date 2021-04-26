@@ -17,7 +17,9 @@ Bprice: [4, 2, 2, 2]
 </pre>
 
 # Output :
+<pre>
 2
+</pre>
 
 # Solution (Executable) :
 For solution - [Click Here](https://onecompiler.com/python/3wvqp5zef)
