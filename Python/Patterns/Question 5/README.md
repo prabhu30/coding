@@ -13,3 +13,7 @@
 ****  ****
 **********
 </pre>
+
+
+# Solution (Executable) :
+For solution - [Click Here](https://ide.geeksforgeeks.org/IGMZFl40s0)
