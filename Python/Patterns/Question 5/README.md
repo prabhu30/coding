@@ -16,4 +16,4 @@
 
 
 # Solution (Executable) :
-For solution - [Click Here](https://ide.geeksforgeeks.org/IGMZFl40s0)
+For solution - [Click Here](https://ide.geeksforgeeks.org/K5CTRP1tE9)
