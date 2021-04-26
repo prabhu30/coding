@@ -3,17 +3,8 @@
 # Question :
 You are given as input a string. The string contains comma separated numbers. It is guaranteed that the numbers 5 and 8 are present in this string.
 Also, the number 8 always comes after 5. You have to generate 2 numbers num1 and num2, such that:
-
-<br>
-
 num1 contains the sum of all numbers which do not lie between 5 and 8 in the input (exclusive of both)
-
-<br>
-
 num2 contains the concatenation of all numbers between 5 and 8 (inclusive of both)
-
-<br>
-
 Your task is to print the sum of num1 and num2.
 
 # Example Input :
