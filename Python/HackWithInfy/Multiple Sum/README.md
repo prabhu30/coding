@@ -28,4 +28,5 @@ Given a positive number x, find the sum of all the multiples of 3 or 5 that are 
   
 # Solution (Executable) :
   Approach 1 - [Click Here](https://onecompiler.com/python/3wvqptzdn)
+  <br>
   Approach 2 - [Click Here](https://onecompiler.com/python/3wvqpvwpg)
