@@ -15,7 +15,7 @@
   1.01 <= weight <= 3.0
 
 # Sample Input :
-  6
+  6 <br>
   1.01 1.99 2.5 1.5 1.01 0.6
 
 # Sample Output :
