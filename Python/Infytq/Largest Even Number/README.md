@@ -2,7 +2,7 @@
 
 # Question :
 Take as input a string. This string is a mixture of letters, integers and special char. 
-From this string, find the largest even number that can pe possibly formed after removing the duplicates.
+From this string, find the largest even number that can be possibly formed after removing the duplicates.
 If an even is not formed then return -1.
 
 # Example Input :
