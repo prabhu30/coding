@@ -11,4 +11,4 @@
 </pre>
 
 # Solution (Executable) :
-  For solution - [Click Here](https://onecompiler.com/python/3wvq8j36dy)
+  For solution - [Click Here](https://onecompiler.com/python/3wvq8j36d)
