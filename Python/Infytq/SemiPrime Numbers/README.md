@@ -1,4 +1,4 @@
-# InfyTQ - SemiPrime Numbers
+# SemiPrime Numbers
 
 # Question :
 A semiprime number is a natural number that is the product of two (not necessarily distinct) primes.
