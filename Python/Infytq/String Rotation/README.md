@@ -10,7 +10,7 @@ Finally, print the rotated word.
 rhdt:246,ghftd:1246
 
 # Output
-trhd
+trhd <br>
 ftdgh
 
 # Explanation
