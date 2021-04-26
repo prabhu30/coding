@@ -1,16 +1,19 @@
-V-SHAPE:
+# V-SHAPE :
 
-Input:<br>
-3<br>
-Output:
+# Input :
+3
+
+# Output:
 <pre>
 1 3
  2
 </pre>
 
-Input:<br>
+# Input:
 5
-Output:<br>
+
+
+# Output:
 <pre>
 1   5
  2 4
