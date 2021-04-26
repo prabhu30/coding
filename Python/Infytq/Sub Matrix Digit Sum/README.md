@@ -44,4 +44,4 @@ Print all the sub matrices that follow the given rule one after the other.
 Print all the matrices of a particular row, and then move on to the next row.
 
 # Solution (Executable) :
-For solution - [Click Here]()
+For solution - [Click Here](https://onecompiler.com/python/3wvqmb2x5)
