@@ -27,4 +27,5 @@ Given a positive number x, find the sum of all the multiples of 3 or 5 that are 
   For x = 15, the multiples of 3 or 5 that are less than or equals to 15 are 3, 5, 6, 9, 10, 12, 15. The sum of these multiples is 60.
   
 # Solution (Executable) :
-  For solution - [Click Here]()
+  Approach 1 - [Click Here](https://onecompiler.com/python/3wvqptzdn)
+  Approach 2 - [Click Here](https://onecompiler.com/python/3wvqpvwpg)
