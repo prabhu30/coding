@@ -19,8 +19,6 @@ Your task is to print the sum of num1 and num2.
 # Explanation :
 num1 : 3+2+6+9 = 20
 
-<br>
-
 num2 : 5148
 
 # Output : 
