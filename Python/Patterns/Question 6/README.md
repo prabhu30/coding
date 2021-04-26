@@ -13,3 +13,6 @@
 **      **
 *        *
 </pre>
+
+# Solution (Executable) :
+For solution - [Click Here](https://ide.geeksforgeeks.org/3v1657JW4L)
