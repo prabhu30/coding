@@ -12,3 +12,6 @@
 544444445                                                                                                                                       
 555555555   
 </pre>
+
+# Solution (Executable) :
+For solution - [Click Here](https://ide.geeksforgeeks.org/aTNAYOO3Fo)
