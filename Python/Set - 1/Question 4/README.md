@@ -24,7 +24,9 @@ be smallest in even number, i.e., 8..... and so on.
 </pre>
 
 # Output 2
+<pre>
 36 47 90 49 98
+</pre>
 
 # Explanation
 In the given array, 36 is the smallest number hence we start with it and arramge the series as even-odd alternatively
