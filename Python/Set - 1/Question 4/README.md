@@ -30,3 +30,6 @@ be smallest in even number, i.e., 8..... and so on.
 
 # Explanation
 In the given array, 36 is the smallest number hence we start with it and arramge the series as even-odd alternatively
+
+# Solution (Executable)
+For solution - [Click Here](https://onecompiler.com/python/3x28gu4x7)
