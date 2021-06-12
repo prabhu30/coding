@@ -1,1 +1,1 @@
-![GitHub Logo](/images/Minimum Remaining String.jpg)
+![GitHub Logo](images/Minimum Remaining String.jpg)
