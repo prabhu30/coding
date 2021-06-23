@@ -3,6 +3,7 @@ Find the smallest pair product in an array
 
 # Input :
 3
+<br>
 [1,2,3]
 
 # Output :
@@ -13,6 +14,7 @@ The pair (1,2) will have the smallest product pair i.e. 1 x 2 = 2
 
 # Input :
 4
+<br>
 [3,5,6,2]
 
 # Output :
