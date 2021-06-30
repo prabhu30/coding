@@ -1,5 +1,4 @@
 - Edyst
-  **(CLICK ON BULLETS/+ ICON TO EXPAND)**
     - Videos
         - About this course
             - [Welcome to Python!](https://youtu.be/I2Vd7w4RDsY)
