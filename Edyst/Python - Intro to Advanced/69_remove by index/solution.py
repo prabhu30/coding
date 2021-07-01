@@ -1,5 +1,4 @@
-def solve(stanley_list):
+def solve(sales_list):
     # write your code here
-    num = stanley_list[0]
-    stanley_list.insert(num,num)
-    return stanley_list
+    sales_list.pop(-3)
+    return sales_list
