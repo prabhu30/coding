@@ -1,5 +1,5 @@
 # Question :
-![odd or even?](https://github.com/prabhu30/coding/blob/main/Edyst/Python%20-%20Intro%20to%20Advanced/48_odd%20or%20even/image.png)
+![odd or even?](https://github.com/prabhu30/coding/blob/main/Edyst/Python%20-%20Intro%20to%20Advanced/03_Conditionals%20&%20Lists/48_odd%20or%20even/image.png)
 
 # Solution :
-[Click here](https://github.com/prabhu30/coding/blob/main/Edyst/Python%20-%20Intro%20to%20Advanced/48_odd%20or%20even/solution.py)
+[Click here](https://github.com/prabhu30/coding/blob/main/Edyst/Python%20-%20Intro%20to%20Advanced/03_Conditionals%20&%20Lists/48_odd%20or%20even/solution.py)
