@@ -1,5 +1,5 @@
 # Question :
-![swap the integers](https://github.com/prabhu30/coding/blob/main/Edyst/Python%20-%20Intro%20to%20Advanced/29_swap%20the%20integers/image.png)
+![swap the integers](https://github.com/prabhu30/coding/blob/main/Edyst/Python%20-%20Intro%20to%20Advanced/02_The%20Basics/29_swap%20the%20integers/image.png)
 
 # Solution :
-[Click here](https://github.com/prabhu30/coding/blob/main/Edyst/Python%20-%20Intro%20to%20Advanced/29_swap%20the%20integers/solution.py)
+[Click here](https://github.com/prabhu30/coding/blob/main/Edyst/Python%20-%20Intro%20to%20Advanced/02_The%20Basics/29_swap%20the%20integers/solution.py)
